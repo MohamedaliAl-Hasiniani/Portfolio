@@ -1,5 +1,5 @@
 # Portfolio
-Creating a portfolio to display for the data Bootcamp
+Quick summary of what I know
 
 # Hi, I'm Mohamedali, 
 
