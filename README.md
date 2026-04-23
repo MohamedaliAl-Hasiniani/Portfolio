@@ -51,19 +51,23 @@ This gives a summary of how many products were sold in each country, and what se
 
 *Population*
 
+Growth Per Continent line graph:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/7a3740e1-f943-44b2-9684-83972ef9524e" />
-Growth Per Continent line graph
 
+
+Average BMI per country and gender bar chart:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/4f04594b-8161-405f-8fca-0f7a1e664e70" />
-Average BMI per country and gender bar chart
 
+
+Life expectancy scattergraph:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/d6bd33ea-700d-493e-b594-043a07f8d5ef" />
-Life expectancy scattergraph
 
 
 *Music*
 
-[Genre Popularity bar chart](Music_Genre_Popularity.png)
+Genre Popularity bar chart:
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/db82686d-c3e9-4346-909a-61f68944e929" />
+
 
 [Musician Popularity bar chart](Musician_Popularity.png)
 
