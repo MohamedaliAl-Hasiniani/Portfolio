@@ -33,8 +33,9 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 **Power BI Dashboards**  
 
-– 
+–Using Power BI to sort Data into what is needed
 
+[
  
 
 **Tableau**  
