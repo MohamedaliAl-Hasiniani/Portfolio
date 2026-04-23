@@ -36,7 +36,7 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 [Order information](Order_Information.png) This is the information on who ordered what product
 
-[Summary Table](Summary_Table.png) This gives a summary of how many products were sold in each country
+[Summary Table](Summary_Table.png) This gives a summary of how many products were sold in each country, and what segment of the country
  
 
 **Tableau**  
