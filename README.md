@@ -75,9 +75,3 @@ Musician Popularity bar chart:
 
 Danceability of genres scattergraph:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/0dac5187-ea4a-43e9-99a6-ccaa8ffe3fc0" />
-
- 
-
-## Get in touch  
-
-- Email: *No, not yet.*
