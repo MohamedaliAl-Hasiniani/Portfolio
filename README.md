@@ -47,7 +47,8 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 [Growth Per Continent line graph](Pop_Growth_Cont.png)
 
-[Average BMI per country and gender bar chart](BMI_Countries.png)
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/4f04594b-8161-405f-8fca-0f7a1e664e70" />
+Average BMI per country and gender bar chart
 
 [Life expectancy scattergraph](Lifespan_Countries.png)
 
