@@ -1,6 +1,3 @@
-# Portfolio
-Quick summary of what I know
-
 # Hi, I'm Mohamedali, 
 
 I live in the UK, and have been learning in a Data Bootcamp. I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this.  
@@ -35,7 +32,7 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 –Using Power BI to sort Data into what is needed in an orders list
 
-[Order details](Order_Details.png)
+[Order details](Order_Details.png) This is the information of
 
 [Order information](Order_Information.png)
 
