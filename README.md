@@ -6,7 +6,7 @@ I live in the UK, and have been learning in a Data Bootcamp.
 
 ## Skills
 
--I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this Bootcamp.
+- I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this Bootcamp.
 
 - Analysing different data using multiple different applications and programming languages 
 
