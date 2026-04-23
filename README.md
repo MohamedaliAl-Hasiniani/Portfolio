@@ -45,4 +45,4 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 ## Get in touch  
 
-- Email: *Not, yet.*
+- Email: *No, not yet.*
