@@ -32,7 +32,9 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 –Using Power BI to sort Data into what is needed in an orders list
 
-[Order details](Order_Details.png) This is the information of what every product is
+Order details:
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/35e66b25-06af-4112-9a27-2711cf8ca38c" />
+ This is the information of what every product is
 
 [Order information](Order_Information.png) This is the information on who ordered what product
 
