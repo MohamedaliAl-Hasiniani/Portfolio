@@ -21,23 +21,28 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 [Python Visualisations](Visualisations.ipynb) 
  
 
-- **SQL for Analysts**  
+**SQL for Analysts**  
 
-– Example database and queries for teaching SELECT, JOIN, and aggregation.
+– Using different SQL dataset functions, such as searches, joins, links, etc.
+[MySQL Examples](SQL_example_queries.txt)
 
+**Excel for analysts**
 
-- **Power BI Dashboards**  
+-Using Microsoft to create tables in Excel, using functions on different cells to create new columns with different information, also giving summaries
+[Excel Students Image](Excel_1.png)
 
-– Sample reports showing KPIs, slicers, and interactive visuals.  
+**Power BI Dashboards**  
+
+– 
 
  
 
-- **Tableau**  
+**Tableau**  
 
-– Sample reports showing KPIs, slicers, and interactive visuals.  
+– 
 
  
 
 ## Get in touch  
 
-- Email: *(add your email here if you want)*
+- Email: *Not, yet.*
