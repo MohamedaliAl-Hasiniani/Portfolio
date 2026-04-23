@@ -18,12 +18,13 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 **Python**  
 
 – Using Python to create different visualisation graphs, and colour coding things to make them easier to understand for people not experienced in Python. 
-[Python dataset](Visualisations.ipynb) 
+[Python Visualisations](Visualisations.ipynb) 
  
 
 - **SQL for Analysts**  
 
-– Example database and queries for teaching SELECT, JOIN, and aggregation.  
+– Example database and queries for teaching SELECT, JOIN, and aggregation.
+
 
 - **Power BI Dashboards**  
 
