@@ -45,6 +45,10 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 [Growth Per Continent](Pop_Growth_Cont.png)
 
+[Average BMI per country and gender](BMI_Countries.png)
+
+[Life expectancy scattergraph](Lifespan_Countries.png)
+
 *Music*
 
 [Genre Popularity](Music_Genre_Popularity.png)
