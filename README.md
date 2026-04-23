@@ -50,7 +50,9 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/4f04594b-8161-405f-8fca-0f7a1e664e70" />
 Average BMI per country and gender bar chart
 
-[Life expectancy scattergraph](Lifespan_Countries.png)
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/d6bd33ea-700d-493e-b594-043a07f8d5ef" />
+Life expectancy scattergraph
+
 
 *Music*
 
