@@ -45,9 +45,9 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 [Growth Per Continent](Pop_Growth_Cont.png)
 
 *Music*
-<b>[Genre Popularity](Music_Genre_Popularity.png)
-<b>[Musician Popularity](Musician_Popularity.png)
-<b>[Danceability of genres](Music_Danceability.png)
+<n>[Genre Popularity](Music_Genre_Popularity.png)
+<n>[Musician Popularity](Musician_Popularity.png)
+<n>[Danceability of genres](Music_Danceability.png)
  
 
 ## Get in touch  
