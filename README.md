@@ -17,8 +17,8 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 **Python**  
 
-– Python notebooks covering data types, loops, and basic Pandas.  
-[Python dataset](
+– Using Python to create different visualisation graphs, and colour coding things to make them easier to understand for people not experienced in Python. 
+[Python dataset](Visualisations.ipynb) 
  
 
 - **SQL for Analysts**  
