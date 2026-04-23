@@ -44,19 +44,19 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 *Population*
 
-[Growth Per Continent](Pop_Growth_Cont.png)
+[Growth Per Continent line graph](Pop_Growth_Cont.png)
 
-[Average BMI per country and gender](BMI_Countries.png)
+[Average BMI per country and gender bar chart](BMI_Countries.png)
 
 [Life expectancy scattergraph](Lifespan_Countries.png)
 
 *Music*
 
-[Genre Popularity](Music_Genre_Popularity.png)
+[Genre Popularity bar chart](Music_Genre_Popularity.png)
 
-[Musician Popularity](Musician_Popularity.png)
+[Musician Popularity bar chart](Musician_Popularity.png)
 
-[Danceability of genres](Music_Danceability.png)
+[Danceability of genres scattergraph](Music_Danceability.png)
  
 
 ## Get in touch  
