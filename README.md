@@ -36,7 +36,9 @@ Order details:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/35e66b25-06af-4112-9a27-2711cf8ca38c" />
  This is the information of what every product is
 
-[Order information](Order_Information.png) This is the information on who ordered what product
+Order information:
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/e5517d0d-3272-47bc-bc16-39d46d850f4e" />
+This is the information on who ordered what product
 
 [Summary Table](Summary_Table.png) This gives a summary of how many products were sold in each country, and what segment of the country
  
