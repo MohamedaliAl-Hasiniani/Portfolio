@@ -42,12 +42,16 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 – Screenshots of Different images from 2 different datasets
 
 *Population*
+
 [Growth Per Continent](Pop_Growth_Cont.png)
 
 *Music*
-<n>[Genre Popularity](Music_Genre_Popularity.png)
-<n>[Musician Popularity](Musician_Popularity.png)
-<n>[Danceability of genres](Music_Danceability.png)
+
+[Genre Popularity](Music_Genre_Popularity.png)
+
+[Musician Popularity](Musician_Popularity.png)
+
+[Danceability of genres](Music_Danceability.png)
  
 
 ## Get in touch  
