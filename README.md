@@ -3,22 +3,22 @@ Quick summary of what I know
 
 # Hi, I'm Mohamedali, 
 
-I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power BI, and Tableau to beginner and intermediate learners.  
+I live in the UK, and have been learning in a Data Bootcamp. I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this.  
 
  
 
-## What I work on  
+## What I have worked on  
 
-- Designing practical data analytics curricula and teaching materials - Teaching live coding sessions and workshops  
+- Analysing different data using multiple different applications and programming languages 
 
-- Creating real-world datasets and case studies for learners  
+- Using data sets similar to how they would be given in the real world to be as accurate as possible in my learning
 
 ## Selected projects –  
 
-**Intro to Python for Data Analysis**  
+**Python**  
 
 – Python notebooks covering data types, loops, and basic Pandas.  
-
+[Python dataset](
  
 
 - **SQL for Analysts**  
