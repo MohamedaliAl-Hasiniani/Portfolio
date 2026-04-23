@@ -45,7 +45,8 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 *Population*
 
-[Growth Per Continent line graph](Pop_Growth_Cont.png)
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/7a3740e1-f943-44b2-9684-83972ef9524e" />
+Growth Per Continent line graph
 
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/4f04594b-8161-405f-8fca-0f7a1e664e70" />
 Average BMI per country and gender bar chart
