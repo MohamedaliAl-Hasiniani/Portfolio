@@ -33,9 +33,13 @@ I live in the UK, and have been learning in a Data Bootcamp. I have learnt Pytho
 
 **Power BI Dashboards**  
 
-–Using Power BI to sort Data into what is needed
+–Using Power BI to sort Data into what is needed in an orders list
 
-[
+[Order details](Order_Details.png)
+
+[Order information](Order_Information.png)
+
+[Summary Table](Summary_Table.png)
  
 
 **Tableau**  
