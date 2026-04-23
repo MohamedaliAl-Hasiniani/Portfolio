@@ -40,7 +40,9 @@ Order information:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/e5517d0d-3272-47bc-bc16-39d46d850f4e" />
 This is the information on who ordered what product
 
-[Summary Table](Summary_Table.png) This gives a summary of how many products were sold in each country, and what segment of the country
+Summary Table:
+<img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/52c15abe-53f9-47d3-9359-2c1a539212e8" />
+This gives a summary of how many products were sold in each country, and what segment of the country
  
 
 **Tableau**  
