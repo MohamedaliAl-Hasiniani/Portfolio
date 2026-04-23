@@ -1,10 +1,12 @@
 # Hi, I'm Mohamedali, 
 
-I live in the UK, and have been learning in a Data Bootcamp. I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this.  
+I live in the UK, and have been learning in a Data Bootcamp.
 
  
 
-## What I have worked on  
+## Skills
+
+-I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this Bootcamp.
 
 - Analysing different data using multiple different applications and programming languages 
 
@@ -75,3 +77,5 @@ Musician Popularity bar chart:
 
 Danceability of genres scattergraph:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/0dac5187-ea4a-43e9-99a6-ccaa8ffe3fc0" />
+
+## Contact
