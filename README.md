@@ -1,6 +1,7 @@
 # Hi, I'm Mohamedali, 
 
-I live in the UK, and have been learning in a Data Bootcamp.
+##About
+I was born in Sweden, my parents were born in Iraq, and I currently live in the UK, and have been in a Data Analysis Bootcamp.
 
  
 
@@ -37,7 +38,7 @@ I live in the UK, and have been learning in a Data Bootcamp.
 Order details:
 <n>
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/35e66b25-06af-4112-9a27-2711cf8ca38c" />
-<n>
+<b> <n>
  This is the information of what every product is
 
 Order information:
