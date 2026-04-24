@@ -90,3 +90,5 @@ Danceability of genres scattergraph:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/0dac5187-ea4a-43e9-99a6-ccaa8ffe3fc0" />
 
 ## Contact
+I would love to hear from you, and if you wish to contact me, you can do so through:
+[E-Mail](malhasiniani@gmail.com)
