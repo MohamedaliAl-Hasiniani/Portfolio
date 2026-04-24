@@ -1,17 +1,25 @@
 # Hi, I'm Mohamedali, 
 
-##About
+## About
 I was born in Sweden, my parents were born in Iraq, and I currently live in the UK, and have been in a Data Analysis Bootcamp.
+My highest level of education is 2 years in Aerospace Technology at Coventry University. I also enjoy problem solving using limited resources.
+I have Spent one year volunteering at a Charity shop and 2 years working in retail
 
  
 
 ## Skills
 
-- I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this Bootcamp.
+- Due to having lived in many countries, I am able to speak 4 languages, as well as some basic British Sign Language
 
+- I have learnt Python, SQL, Excel, Power BI, Tableau, and Azure in this Bootcamp.
+  
 - Analysing different data using multiple different applications and programming languages 
 
 - Using data sets similar to how they would be given in the real world to be as accurate as possible in my learning
+  
+- In addition, I have also know Visual Basics, Arduino programming, and CATIA 3D modelling
+
+
 
 ## Selected projects –  
 
@@ -38,8 +46,8 @@ I was born in Sweden, my parents were born in Iraq, and I currently live in the 
 Order details:
 <n>
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/35e66b25-06af-4112-9a27-2711cf8ca38c" />
-<b> <n>
- This is the information of what every product is
+<n>
+- This is the information of what every product is
 
 Order information:
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/e5517d0d-3272-47bc-bc16-39d46d850f4e" />
