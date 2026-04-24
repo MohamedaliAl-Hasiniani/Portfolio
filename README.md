@@ -91,4 +91,4 @@ Danceability of genres scattergraph:
 
 ## Contact
 I would love to hear from you, and if you wish to contact me, you can do so through:
-[E-Mail](malhasiniani@gmail.com)
+E-mail: malhasiniani@gmail.com
