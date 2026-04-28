@@ -44,9 +44,9 @@ I have Spent one year volunteering at a Charity shop and 2 years working in reta
 –Using Power BI to sort Data into what is needed in an orders list
 
 Order details:
-[^1]
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/35e66b25-06af-4112-9a27-2711cf8ca38c" />
-[^1]
+  
 - This is the information of what every product is
 
 Order information:
