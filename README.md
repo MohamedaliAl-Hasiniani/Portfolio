@@ -47,7 +47,7 @@ Order details:
   
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/35e66b25-06af-4112-9a27-2711cf8ca38c" />
   
-- This is the information of what every product is
+This is the information of what every product is
 
 Order information:
   
