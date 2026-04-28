@@ -50,11 +50,15 @@ Order details:
 - This is the information of what every product is
 
 Order information:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/e5517d0d-3272-47bc-bc16-39d46d850f4e" />
+  
 This is the information on who ordered what product
 
 Summary Table:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/52c15abe-53f9-47d3-9359-2c1a539212e8" />
+  
 This gives a summary of how many products were sold in each country, and what segment of the country
  
 
@@ -65,30 +69,37 @@ This gives a summary of how many products were sold in each country, and what se
 *Population*
 
 Growth Per Continent line graph:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/7a3740e1-f943-44b2-9684-83972ef9524e" />
-
+  
 
 Average BMI per country and gender bar chart:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/4f04594b-8161-405f-8fca-0f7a1e664e70" />
-
+  
 
 Life expectancy scattergraph:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/d6bd33ea-700d-493e-b594-043a07f8d5ef" />
-
-
+  
+  
 *Music*
 
 Genre Popularity bar chart:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/db82686d-c3e9-4346-909a-61f68944e929" />
-
+  
 
 Musician Popularity bar chart:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/79dc7882-7d33-43b6-9751-639c8bbf4e5e" />
-
+  
 
 Danceability of genres scattergraph:
+  
 <img width="345" height="191" alt="image" src="https://github.com/user-attachments/assets/0dac5187-ea4a-43e9-99a6-ccaa8ffe3fc0" />
 
+  
 ## Contact
 I would love to hear from you, and if you wish to contact me, you can do so through:
 E-mail: malhasiniani@gmail.com
